@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Favorite Coffee &amp; Tea Shops</string>
+        <string name="place1">Coffeeholic House</string>
+        <string name="place2">Matcha Man</string>
+        <string name="place3">Nana\'s Green Tea</string>
+        <string name="place4">Ding Tea</string>
+        <string name="place5">The Boss Tea</string>
+        <string name="place6">Oh! Bear Cafe</string>
+        <string name="place7">ShareTea</string>
+        <string name="place8">Onda Origins</string>
+        <string name="place9">Olympia Coffee Roasting</string>
+</resources>

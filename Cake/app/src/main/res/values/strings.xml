@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cake</string>
+    <string name="recipe">Tap the cake recipe to read it!</string>
+    <string name="ingredients">Tap the cake ingredients to make the cake batter!</string>
+    <string name="bake">Tap the oven to bake the cake in the oven!</string>
+    <string name="decorate">Decorate your cake and you\'re done! Enjoy your cake :)</string>
+    <string name="again">Want to make another cake? Tap the cake!</string>
+
+    <string name="recipe_content_description">Cake Recipe</string>
+    <string name="ingredients_content_description">Cake ingredients</string>
+    <string name="bake_content_description">Oven</string>
+    <string name="decorate_content_description">Cake</string>
+</resources>

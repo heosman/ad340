@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="name">Hanan Osman</string>
+    <string name="year_1">\t(2022)</string>
+    <string name="year_2">\t(2023)</string>
+    <string name="content_description_1">Cafe with Greenery</string>
+    <string name="content_description_2">Pond with Lily-pads</string>
+    <string name="content_description_3">Reflection in City Waterfall</string>
+    <string name="content_description_4">Architecture in Rochester Town Square</string>
+    <string name="content_description_5">Industrial themed Cafe</string>
+    <string name="text_1">Cafe with Greenery</string>
+    <string name="text_2">Pond with Lily-pads</string>
+    <string name="text_3">Reflection in City Waterfall</string>
+    <string name="text_4">Architecture in Rochester Town Square</string>
+    <string name="text_5">Industrial Themed Cafe</string>
+    <string name="previous">Previous</string>
+    <string name="next">\tNext\t</string>
+</resources>
